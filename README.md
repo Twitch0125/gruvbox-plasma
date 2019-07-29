@@ -4,7 +4,7 @@ Plasma Desktop theme with Gruvbox colors
 
 ![screen](screenshot.png)
 
-## Instalation
+## Installation
 
 ```
 git clone https://github.com/3ximus/gruvbox-plasma
